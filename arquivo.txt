@@ -1,4 +1,5 @@
-git init
-git status
-git add
-git commit
+git init (inicia)
+git status (indica o que está havendo)
+git add (põem certo arquivo para ser commitado)
+git commit (salva o arquivo)
+git restore (restaura o arquivo)
