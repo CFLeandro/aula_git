@@ -12,3 +12,4 @@ git remote add origin "URL do Repositorio" (linkar arquivos no github)
 git push -u origin main (envia a branch main para o github)
 git pull -u origin main (baixa o que tiver no repositório no computador)
 git fetch (sincronizar o local com o github)
+git clone "URL do repositório"
